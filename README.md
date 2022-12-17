@@ -31,7 +31,7 @@ npm install
 4 - Start the development server.
 
 ```
-npm run
+npm run start
 ```
 The app will be available at http://localhost:3000.
 
